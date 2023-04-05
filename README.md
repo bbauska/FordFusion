@@ -15,9 +15,12 @@ Newline - "&lt;br&gt;"<br>
   3. Front brake shoes - R&R.<br>
      - [11 min video on front brake removal & replacement](https://www.youtube.com/watch?v=qrnqmVq10cw)
   4. Driver's electric window - repair.<br>
-     - Motor works but is not engaged with glass window.
+     - Window motor works but is not engaged with glass window.
 
   5. Rear window - replace.<br>
+
+  6. Remove middle console.</br>
+     - [7:10 min video on center console](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
 
 <h2>Tools</h2>
 <ul>
