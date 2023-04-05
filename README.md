@@ -7,7 +7,7 @@ Newline - "&lt;br&gt;"<br>
 2 spaces - "^^"   - '&ensp;' - 2 spaces<br>
 4 spaces - "^^^^" - '&emsp;' - 4 spaces<br>
 
-# Repair work in order of necessity.
+## Repair work in order of necessity.
   1. Oil change every 3,000.<br>
 
   2. Rear brake shoes - remove & replace.<br>
@@ -33,3 +33,5 @@ Newline - "&lt;br&gt;"<br>
   <li> torx t-40 socket, again for rotor removal,</li>
   <li> brake press</li>
 </ul>
+
+## [Top 5 problems - 2006-2012 Ford Fusion](https://www.youtube.com/watch?v=yaRQo5uPNyY)
