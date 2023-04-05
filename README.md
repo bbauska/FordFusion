@@ -10,8 +10,8 @@ Newline - "&lt;br&gt;"<br>
   1. Oil change every 3,000
 
   2. Rear brake shoes - remove & replace.
-  
-    - [Video on brake removal & replacement](https://www.youtube.com/watch?v=cikKzEFv_fs)
+
+&emsp; - [Video on brake removal & replacement](https://www.youtube.com/watch?v=cikKzEFv_fs)
     - 
     
 
