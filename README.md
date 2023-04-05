@@ -36,5 +36,12 @@ Newline - "&lt;br&gt;"<br>
 
 ## [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)
   1. alternator.  pain in the ass to get to.  underneath recommended.
-  2. swollen lugnuts (that one I had).
-  3. shifter assembly.
+  2. swollen lugnuts (that one I had). replace 20 @ $20.00 total.
+  3. shifter assembly. replace.
+  4. power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.
+  5. water pump.
+
+## [Air Conditioning Repair](https://www.youtube.com/watch?v=3cfPShi_-Nk)
+
+
+
