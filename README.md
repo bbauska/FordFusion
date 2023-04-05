@@ -6,7 +6,7 @@
 
 2. Rear brake shoes - remove & replace.
 
-sp;sp;  [Video on brake removal & replacement](https://www.youtube.com/watch?v=cikKzEFv_fs)
+&ensp;&ensp;  [Video on brake removal & replacement](https://www.youtube.com/watch?v=cikKzEFv_fs)
 
 3. Driver's electric window - repair.
 
