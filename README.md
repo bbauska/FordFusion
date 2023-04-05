@@ -2,7 +2,8 @@
 2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.
 
 Newline - "&lt;br&gt;"<br>
-1 space  - &nsp; - 1 space<br>
+<br>
+1 space  - &nbsp; ampersand,nbsp,semi-colon - 1 space<br>
 2 spaces - &ensp; - 2 spaces<br>
 4 spaces - &emsp; - 4 spaces<br>
 
