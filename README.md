@@ -19,3 +19,11 @@ Newline - "&lt;br&gt;"<br>
 
   5. Rear window - replace.<br>
 
+<h2>Tools</h2>
+<ul>
+  <li>19mm or 3/4" socket and wrench</li>
+  <li>breaker bar</li>
+  <li>wratchet</li>
+  <li>9/16", 5/8" open-end and sockets</li>
+  <li>impact wrench for rotor removal with star socket</li>
+</ul>
