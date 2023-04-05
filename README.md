@@ -21,9 +21,12 @@ Newline - "&lt;br&gt;"<br>
 
 <h2>Tools</h2>
 <ul>
-  <li>19mm or 3/4" socket and wrench</li>
-  <li>breaker bar</li>
-  <li>wratchet</li>
-  <li>9/16", 5/8" open-end and sockets</li>
-  <li>impact wrench for rotor removal with star socket</li>
+  <li> 19mm or 3/4" socket and wrench,</li>
+  <li> breaker bar &/or visegrips,</li>
+  <li> 3/8 or 1/2" socket wrench,</li>
+  <li> 13mm, 7/16", 5/8" sockets,</li>
+  <li> 13mm, 7/16", 5/8" open-end wrenches,</li>
+  <li> impact wrench for rotor removal,</li>
+  <li> torx t-40 socket, again for rotor removal,</li>
+  <li> brake press</li>
 </ul>
