@@ -34,4 +34,7 @@ Newline - "&lt;br&gt;"<br>
   <li> brake press</li>
 </ul>
 
-## [Top 5 problems - 2006-2012 Ford Fusion](https://www.youtube.com/watch?v=yaRQo5uPNyY)
+## [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)
+  1. alternator.  pain in the ass to get to.  underneath recommended.
+  2. swollen lugnuts (that one I had).
+  3. shifter assembly.
