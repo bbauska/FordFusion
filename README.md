@@ -9,7 +9,7 @@ Newline - "&lt;br&gt;"<br>
 
 ## Repair work in order of necessity.
   1. Oil change every 3,000.<br>
-     - Oil: 
+     - Oil: 5w20
      - Oil Filter: 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
