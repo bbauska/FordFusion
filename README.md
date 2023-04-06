@@ -1,4 +1,4 @@
-# FordFusion (1st gen 2006-2012)
+# FordFusion (1st gen 2006-2012 SEL 2.5 L)
 2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.
 
 Newline - "&lt;br&gt;"<br>
