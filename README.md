@@ -9,13 +9,17 @@ Newline - "&lt;br&gt;"<br>
 
 ## Repair work in order of necessity.
   1. [Oil change every 3,000 (15:01 min)](https://www.youtube.com/watch?v=Kc3Ax45X5fo) <br>
-     - Oil: 5w20
-     - Oil Filter: 
+     - Oil: 5w20 (5 quarts)
+     - Oil Filter: FL9105
      - Tools;
-        * 13mm socket
+        * 13mm socket - oil drain plug.
         * 3/8th ratchet
         * funnel
+        * 2 gallon tub to catch old oil (5 inches tall approx)
         * oil filter wrench
+        * 9/32" or 10mm socket for oil pan cover (7 total screws)
+        * 15mm open end wrench
+        * oil filter wrench for removal
         * 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
@@ -29,11 +33,13 @@ Newline - "&lt;br&gt;"<br>
         * standard wrench set
 
   3. Front brake shoes - R&R.<br>
+     - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
      - Brake pads part # D1164 (KAX)
      - Manufacturer Part Number	‎3785BPS009SUS
-     - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
+     - Tools;
+      * Same as above 'Rear brake shoes - remove & replace'.
   4. Driver's electric window - repair.<br>
-     - Window motor works but is not engaged with glass window.
+     - Window motor works but is not engaged with glass in window.
      - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
      - Tools;
         * Magnet
