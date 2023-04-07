@@ -19,6 +19,12 @@ Newline - "&lt;br&gt;"<br>
         * 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
+     - Tools;
+        * 3/4" deep well socket & wrench (3/8" or 1/2")
+        * brake press tool (rent from auto parts store)
+        * straight-edge screw driver
+        * torque wrench (85 foot pounds)
+        * 
   3. Front brake shoes - R&R.<br>
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
   4. Driver's electric window - repair.<br>
