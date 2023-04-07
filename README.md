@@ -12,8 +12,8 @@ Newline - "&lt;br&gt;"<br>
      - Oil: 5w20
      - Oil Filter: 
      - Tools;
-     -  * 13mm socket
-        * 3/8th wratchet
+        * 13mm socket
+        * 3/8th ratchet
         * funnel
         * oil filter wrench
         * 
@@ -31,6 +31,9 @@ Newline - "&lt;br&gt;"<br>
         * drill
         * open-end wrench set metric
         * open-end wrench set standard
+        * 3/4" DEEP WELL socket
+        * Torque Wrench 3/8" or 1/2" preferred
+        * 
         
 
   5. Rear window - replace.<br>
