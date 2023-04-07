@@ -19,6 +19,7 @@ Newline - "&lt;br&gt;"<br>
         * 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
+     - Brake pads part # 6BPS0660 (KAX)
      - Tools;
         * 3/4" deep well socket & wrench (3/8" or 1/2")
         * brake press tool (rent from auto parts store)
@@ -28,8 +29,8 @@ Newline - "&lt;br&gt;"<br>
         * standard wrench set
 
   3. Front brake shoes - R&R.<br>
+     - Brake pads part # D1164 (KAX)
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
-     - parts KAX Brake Pads  OE Part Number: D1164
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass window.
      - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
