@@ -8,9 +8,15 @@ Newline - "&lt;br&gt;"<br>
 4 spaces - "^^^^" - '&emsp;' - 4 spaces<br>
 
 ## Repair work in order of necessity.
-  1. Oil change every 3,000.<br>
+  1. [Oil change every 3,000 15:00 min].<br>
      - Oil: 5w20
      - Oil Filter: 
+     - Tools;
+      * 13mm socket
+      * 3/8th wratchet
+      * funnel
+      * oil filter wrench
+      * 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
   3. Front brake shoes - R&R.<br>
