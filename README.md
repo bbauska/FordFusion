@@ -12,11 +12,11 @@ Newline - "&lt;br&gt;"<br>
      - Oil: 5w20
      - Oil Filter: 
      - Tools;
-      * 13mm socket
-      * 3/8th wratchet
-      * funnel
-      * oil filter wrench
-      * 
+     -  * 13mm socket
+        * 3/8th wratchet
+        * funnel
+        * oil filter wrench
+        * 
   2. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
   3. Front brake shoes - R&R.<br>
