@@ -30,6 +30,7 @@ Newline - "&lt;br&gt;"<br>
 
   3. Front brake shoes - R&R.<br>
      - Brake pads part # D1164 (KAX)
+     - Manufacturer Part Number	‎3785BPS009SUS
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass window.
