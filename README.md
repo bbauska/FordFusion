@@ -17,6 +17,15 @@ Newline - "&lt;br&gt;"<br>
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass window.
+     - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
+     - Tools;
+        * Magnet
+        * metric set 7mm-19mm deep socket
+        * standard set 3/8th - 7/8th deep socket
+        * drill
+        * open-end wrench set metric
+        * open-end wrench set standard
+        
 
   5. Rear window - replace.<br>
 
