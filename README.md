@@ -37,7 +37,7 @@ Newline - "&lt;br&gt;"<br>
      - Brake pads part # D1164 (KAX)
      - Manufacturer Part Number	‎3785BPS009SUS
      - Tools;
-      * Same as above 'Rear brake shoes - remove & replace'.
+        * Same as above 'Rear brake shoes - remove & replace'
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass in window.
      - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
