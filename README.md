@@ -26,8 +26,10 @@ Newline - "&lt;br&gt;"<br>
         * torque wrench (85 foot pounds)
         * standard socket set
         * standard wrench set
+
   3. Front brake shoes - R&R.<br>
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
+     - parts KAX Brake Pads  OE Part Number: D1164
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass window.
      - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
