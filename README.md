@@ -24,7 +24,8 @@ Newline - "&lt;br&gt;"<br>
         * brake press tool (rent from auto parts store)
         * straight-edge screw driver
         * torque wrench (85 foot pounds)
-        * 
+        * standard socket set
+        * standard wrench set
   3. Front brake shoes - R&R.<br>
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
   4. Driver's electric window - repair.<br>
