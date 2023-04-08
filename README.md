@@ -26,13 +26,13 @@ Newline - "&lt;br&gt;"<br>
         <li>oil filter wrench for removal</li>
     </ul>
   </ul></li>
-<li> <a href="https://www.youtube.com/watch?v=1O1dOgG9cII">Most Common Brake Installation Mistakes (13:28 min)</a></li>
+<li><a href="https://www.youtube.com/watch?v=1O1dOgG9cII">Most Common Brake Installation Mistakes (13:28 min)</a></li>
 
 <li> Rear brake shoes - remove & replace.<br>
   <ul>
-   <li> [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)</li>
-    <li> Brake pads part # 6BPS0660 (KAX)</li>
-    <li> Tools;</li>
+    <li><a href="https://www.youtube.com/watch?v=cikKzEFv_fs">Rear brake removal & replacement (14 min)</a></li>
+    <li>Brake pads part # 6BPS0660 (KAX)</li>
+    <li>Tools;</li>
      <ul>
        <li>3/4" deep well socket & wrench (3/8" or 1/2")
        <li>brake press tool (rent from auto parts store)</li>
@@ -41,9 +41,8 @@ Newline - "&lt;br&gt;"<br>
        <li>standard socket set</li>
        <li>standard wrench set</li>
     </ul>
-  </ul></li>
-  
-  
+  </ul>
+</li>
 <li> Front brake shoes - R&R.<br>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=qrnqmVq10cw">Front brake removal & replacement (11 min)</a></li>
@@ -75,9 +74,9 @@ Newline - "&lt;br&gt;"<br>
   
   <li> Rear window - replace.<br></li>
 
-  <li> [Middle/Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)</li>
+  <li><a href="https://www.youtube.com/watch?v=CdjM3eWzD1Y">Middle/Center console removal (7:10 min)</a></li>
 
-  <li> [Air Conditioning Repair (23:41 min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)</li>
+  <li><a href="https://www.youtube.com/watch?v=3cfPShi_-Nk">Air Conditioning Repair (23:41 min)</a></li>
 </ol>
 
 <h2>Tools</h2>
