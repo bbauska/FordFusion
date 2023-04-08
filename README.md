@@ -8,7 +8,7 @@ Newline - "&lt;br&gt;"<br>
 4 spaces - "^^^^" - '&emsp;' - 4 spaces<br>
 
 <h2 id="repair">Repair work in order of necessity</h2>
-  1. [Oil change every 3,000 (15:01 min)](https://www.youtube.com/watch?v=Kc3Ax45X5fo) <br>
+  1. <a href="https://www.youtube.com/watch?v=Kc3Ax45X5fo">Oil change every 3,000 (15:01 min)</a>
      - Oil: 5w20 (5 quarts)
      - Oil Filter: FL9105
      - Tools;
@@ -21,7 +21,7 @@ Newline - "&lt;br&gt;"<br>
         * 15mm open end wrench
         * oil filter wrench for removal
 
-  2. [Most Common Brake Installation Mistakes (13:28 min)](https://www.youtube.com/watch?v=1O1dOgG9cII)
+  2. <a href="https://www.youtube.com/watch?v=1O1dOgG9cII">Most Common Brake Installation Mistakes (13:28 min)</a>
 
   3. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
