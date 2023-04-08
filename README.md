@@ -40,7 +40,7 @@ Newline - "&lt;br&gt;"<br>
         * Same as above 'Rear brake shoes - remove & replace'
   4. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass in window.
-     - [Window Regulator R & R](https://www.youtube.com/watch?v=qpxrymHjmXc)
+     - [Window Regulator R & R (15:28 min)](https://www.youtube.com/watch?v=qpxrymHjmXc)
      - Tools;
         * Magnet
         * metric set 7mm-19mm deep socket
