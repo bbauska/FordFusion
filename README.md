@@ -1,11 +1,14 @@
 <h1 id="ford">FordFusion (1st gen 2006-2012 SEL 2.5 L v6)</h1>
 2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.<br>
 <br>
+
+<!--
 Newline - "&lt;br&gt;"<br>
 <br>
 1 space  - "^"    - '&nbsp;' - ampersand,nbsp,semi-colon - 1 space<br>
 2 spaces - "^^"   - '&ensp;' - 2 spaces<br>
 4 spaces - "^^^^" - '&emsp;' - 4 spaces<br>
+-->
 
 <h2 id="repair">Repair work in order of necessity</h2>
 
