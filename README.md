@@ -1,4 +1,4 @@
-# FordFusion (1st gen 2006-2012 SEL 2.5 L)
+# FordFusion (1st gen 2006-2012 SEL 2.5 L v6)
 2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.
 
 Newline - "&lt;br&gt;"<br>
@@ -57,6 +57,8 @@ Newline - "&lt;br&gt;"<br>
 
   6. Remove middle console.</br>
      - [Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
+
+  7. [Most Common Brake Installation Mistakes (13:28 min)](https://www.youtube.com/watch?v=1O1dOgG9cII)
 
 <h2>Tools</h2>
 <ul>
