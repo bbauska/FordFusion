@@ -1,4 +1,4 @@
-# FordFusion (1st gen 2006-2012 SEL 2.5 L v6)
+<h1 id="ford">FordFusion (1st gen 2006-2012 SEL 2.5 L v6)</h1>
 2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.
 
 Newline - "&lt;br&gt;"<br>
@@ -7,7 +7,7 @@ Newline - "&lt;br&gt;"<br>
 2 spaces - "^^"   - '&ensp;' - 2 spaces<br>
 4 spaces - "^^^^" - '&emsp;' - 4 spaces<br>
 
-## Repair work in order of necessity.
+<h2 id="repair">Repair work in order of necessity</h2>
   1. [Oil change every 3,000 (15:01 min)](https://www.youtube.com/watch?v=Kc3Ax45X5fo) <br>
      - Oil: 5w20 (5 quarts)
      - Oil Filter: FL9105
@@ -20,8 +20,9 @@ Newline - "&lt;br&gt;"<br>
         * 9/32" or 10mm socket for oil pan cover (7 total screws)
         * 15mm open end wrench
         * oil filter wrench for removal
-        * 
+
   2. [Most Common Brake Installation Mistakes (13:28 min)](https://www.youtube.com/watch?v=1O1dOgG9cII)
+
   3. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
      - Brake pads part # 6BPS0660 (KAX)
@@ -39,6 +40,7 @@ Newline - "&lt;br&gt;"<br>
      - Manufacturer Part Number	‎3785BPS009SUS
      - Tools;
         * Same as above 'Rear brake shoes - remove & replace'
+
   5. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass in window.
      - [Window Regulator R & R (15:28 min)](https://www.youtube.com/watch?v=qpxrymHjmXc)
@@ -51,13 +53,12 @@ Newline - "&lt;br&gt;"<br>
         * open-end wrench set standard
         * 3/4" DEEP WELL socket
         * Torque Wrench 3/8" or 1/2" preferred
-        * 
         
   6. Rear window - replace.<br>
 
   7. [Middle/Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
 
-  8. [Air Conditioning Repair ( min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)
+  8. [Air Conditioning Repair (23:41 min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)
 
 <h2>Tools</h2>
 <ul>
@@ -71,13 +72,13 @@ Newline - "&lt;br&gt;"<br>
   <li> brake press</li>
 </ul>
 
-## [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)
+<h2> [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)</h2>
   1. alternator.  pain in the ass to get to.  underneath recommended.
   2. swollen lugnuts (that one I had). replace 20 @ $20.00 total.
   3. shifter assembly. replace.
   4. power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.
   5. water pump.
 
-## [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)
+<h2> [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)</h2>
 
 
