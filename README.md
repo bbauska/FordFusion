@@ -21,7 +21,8 @@ Newline - "&lt;br&gt;"<br>
         * 15mm open end wrench
         * oil filter wrench for removal
         * 
-  2. Rear brake shoes - remove & replace.<br>
+  2. [Most Common Brake Installation Mistakes (13:28 min)](https://www.youtube.com/watch?v=1O1dOgG9cII)
+  3. Rear brake shoes - remove & replace.<br>
      - [Rear brake removal & replacement (14 min)](https://www.youtube.com/watch?v=cikKzEFv_fs)
      - Brake pads part # 6BPS0660 (KAX)
      - Tools;
@@ -32,13 +33,13 @@ Newline - "&lt;br&gt;"<br>
         * standard socket set
         * standard wrench set
 
-  3. Front brake shoes - R&R.<br>
+  4. Front brake shoes - R&R.<br>
      - [Front brake removal & replacement (11 min)](https://www.youtube.com/watch?v=qrnqmVq10cw)
      - Brake pads part # D1164 (KAX)
      - Manufacturer Part Number	‎3785BPS009SUS
      - Tools;
         * Same as above 'Rear brake shoes - remove & replace'
-  4. Driver's electric window - repair.<br>
+  5. Driver's electric window - repair.<br>
      - Window motor works but is not engaged with glass in window.
      - [Window Regulator R & R (15:28 min)](https://www.youtube.com/watch?v=qpxrymHjmXc)
      - Tools;
@@ -52,13 +53,11 @@ Newline - "&lt;br&gt;"<br>
         * Torque Wrench 3/8" or 1/2" preferred
         * 
         
+  6. Rear window - replace.<br>
 
-  5. Rear window - replace.<br>
+  7. [Middle/Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
 
-  6. Remove middle console.</br>
-     - [Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
-
-  7. [Most Common Brake Installation Mistakes (13:28 min)](https://www.youtube.com/watch?v=1O1dOgG9cII)
+  8. [Air Conditioning Repair ( min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)
 
 <h2>Tools</h2>
 <ul>
@@ -78,8 +77,6 @@ Newline - "&lt;br&gt;"<br>
   3. shifter assembly. replace.
   4. power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.
   5. water pump.
-
-## [Air Conditioning Repair](https://www.youtube.com/watch?v=3cfPShi_-Nk)
 
 ## [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)
 
