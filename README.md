@@ -100,6 +100,6 @@ Newline - "&lt;br&gt;"<br>
   <li>water pump.</li>
   </ol>
 
-<h2><a href="https://www.youtube.com/watch?v=xrymc0CV86Q">SEL Controls Guide (11:23)</a></h2>
+<h2><a href="https://www.youtube.com/watch?v=xrymc0CV86Q">SEL Controls Guide (11:23 min)</a></h2>
 
 
