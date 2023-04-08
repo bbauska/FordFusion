@@ -73,31 +73,32 @@ Newline - "&lt;br&gt;"<br>
   </ul>
   </li>
   
-  6. Rear window - replace.<br>
+  <li> Rear window - replace.<br></li>
 
-  7. [Middle/Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)
+  <li> [Middle/Center console removal (7:10 min)](https://www.youtube.com/watch?v=CdjM3eWzD1Y)</li>
 
-  8. [Air Conditioning Repair (23:41 min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)
+  <li> [Air Conditioning Repair (23:41 min)](https://www.youtube.com/watch?v=3cfPShi_-Nk)</li>
+</ol>
 
 <h2>Tools</h2>
 <ul>
-  <li> 19mm or 3/4" socket and wrench,</li>
-  <li> breaker bar &/or visegrips,</li>
-  <li> 3/8 or 1/2" socket wrench,</li>
-  <li> 13mm, 7/16", 5/8" sockets,</li>
-  <li> 13mm, 7/16", 5/8" open-end wrenches,</li>
-  <li> impact wrench for rotor removal,</li>
-  <li> torx t-40 socket, again for rotor removal,</li>
-  <li> brake press</li>
+  <li>19mm or 3/4" socket and wrench,</li>
+  <li>breaker bar &/or visegrips,</li>
+  <li>3/8 or 1/2" socket wrench,</li>
+  <li>13mm, 7/16", 5/8" sockets,</li>
+  <li>13mm, 7/16", 5/8" open-end wrenches,</li>
+  <li>impact wrench for rotor removal,</li>
+  <li>torx t-40 socket, again for rotor removal,</li>
+  <li>brake press</li>
 </ul>
 
-<h2> [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)</h2>
+## [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)
   1. alternator.  pain in the ass to get to.  underneath recommended.
   2. swollen lugnuts (that one I had). replace 20 @ $20.00 total.
   3. shifter assembly. replace.
   4. power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.
   5. water pump.
 
-<h2> [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)</h2>
+## [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)</h2>
 
 
