@@ -1,6 +1,6 @@
 <h1 id="ford">FordFusion (1st gen 2006-2012 SEL 2.5 L v6)</h1>
-2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.
-
+2010 Ford Fusion - repair work. Oil change, rear brakes, emergency brake remove &amp; replace.<br>
+<br>
 Newline - "&lt;br&gt;"<br>
 <br>
 1 space  - "^"    - '&nbsp;' - ampersand,nbsp,semi-colon - 1 space<br>
@@ -91,13 +91,15 @@ Newline - "&lt;br&gt;"<br>
   <li>brake press</li>
 </ul>
 
-## [Top 5 problems - 2006-2012 Ford Fusion (3:15)](https://www.youtube.com/watch?v=yaRQo5uPNyY)
-  1. alternator.  pain in the ass to get to.  underneath recommended.
-  2. swollen lugnuts (that one I had). replace 20 @ $20.00 total.
-  3. shifter assembly. replace.
-  4. power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.
-  5. water pump.
+<h2><a href="https://www.youtube.com/watch?v=yaRQo5uPNyY">Top 5 problems - 2006-2012 Ford Fusion (3:15 min)</a><h2>
+<ol id="top5">
+  <li>alternator.  pain in the ass to get to.  underneath recommended.</li>
+  <li>swollen lugnuts (that one I had). replace 20 @ $20.00 total.</li>
+  <li>shifter assembly. replace.</li>
+  <li>power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.</li>
+  <li>water pump.</li>
+  </ol>
 
-## [SEL Controls Guide (11:23)](https://www.youtube.com/watch?v=xrymc0CV86Q)</h2>
+<h2><a href="https://www.youtube.com/watch?v=xrymc0CV86Q">SEL Controls Guide (11:23)</a></h2>
 
 
