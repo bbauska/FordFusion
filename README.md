@@ -98,9 +98,9 @@ Newline - "&lt;br&gt;"<br>
 <ol id="top5">
   <li>alternator.  pain in the ass to get to.  underneath recommended.</li>
   <li>swollen lugnuts (that one I had). replace 20 @ $20.00 total.</li>
-  <li>shifter assembly. replace.</li>
+  <li>shifter assembly. replace. I believe it is the safety neutral switch.</li>
   <li>power steering fluid leak. Mercon 5 (auto transmission fluid).  Under back passenger seat.  Way under.</li>
-  <li>water pump.</li>
+  <li>water pump.  chain-driven.  leak antifreeze near oil filter (under car).</li>
   </ol>
 
 <h2><a href="https://www.youtube.com/watch?v=xrymc0CV86Q">SEL Controls Guide (11:23 min)</a></h2>
