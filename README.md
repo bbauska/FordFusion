@@ -23,7 +23,6 @@ Newline - "&lt;br&gt;"<br>
         <li>3/8th ratchet</li>
         <li>funnel</li>
         <li>2 gallon tub to catch old oil (5 inches tall approx)</li>
-        <li>oil filter wrench</li>
         <li>9/32" or 10mm socket for oil pan cover (7 total screws)</li>
         <li>15mm open end wrench</li>
         <li>oil filter wrench for removal</li>
