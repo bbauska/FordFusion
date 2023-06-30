@@ -37,7 +37,7 @@ Newline - "&lt;br&gt;"<br>
     <li>Brake pads part # 6BPS0660 (KAX)</li>
     <li>Tools;</li>
      <ul>
-       <li>3/4" deep well socket & wrench (3/8" or 1/2")
+       <li>3/4" (19mm) deep well socket & wrench (3/8" or 1/2")
        <li>brake press tool (rent from auto parts store)</li>
        <li>straight-edge screw driver</li>
        <li>torque wrench (85 foot pounds)</li>
