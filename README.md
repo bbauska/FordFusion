@@ -93,7 +93,7 @@ Newline - "&lt;br&gt;"<br>
   <li>brake press</li>
 </ul>
 
-<h2><a href="https://www.youtube.com/watch?v=yaRQo5uPNyY">Top 5 problems - 2006-2012 Ford Fusion (3:15 min)</a><h2>
+<h2><a href="https://www.youtube.com/watch?v=yaRQo5uPNyY">Top 5 problems - 2006-2012 Ford Fusion (3:15 min)</a></h2>
 <ol id="top5">
   <li>alternator.  pain in the ass to get to.  underneath recommended.</li>
   <li>swollen lugnuts (that one I had). replace 20 @ $20.00 total.</li>
